@@ -32,9 +32,9 @@ A repo for smoothening any two personalized T2I Diffusion models. It's a plugin-
     </tr>
 </table>
 
-<table>
+<table class="center">
     <tr>
-    <td><img src="assets/gif/blonde-girl.gif"></td>s
+    <td><img src="assets/gif/blonde-girl.gif"></td>
     <td><img src="assets/gif/daken-the-cat.gif"></td>
     <td><img src="assets/gif/detailing-girl.gif"></td>
     <td><img src="assets/gif/hairing-the-girl.gif"></td>
